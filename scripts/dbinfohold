@@ -1,0 +1,4 @@
+1) create duplacate test table
+    CREATE TABLE testtable AS SELECT * FROM original_table WHERE 1 = 0;
+2) print out table in dataanylist sql on oracle
+    SELECT * FROM DEV.STOCK_FACT
